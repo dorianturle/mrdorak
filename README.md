@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+😄 Pronouns: He/Him
+
+#### Some stats (not accurate since I work mainly on private repos) :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrdorak&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
-**MrDorak/mrdorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MrDorak's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdorak&layout=compact)
 
 Here are some ideas to get you started:
 

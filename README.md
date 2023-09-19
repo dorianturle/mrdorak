@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 Pronouns: He/Him
+Pronouns: He/Him
 
-#### Some stats (not accurate since I work mainly on private repos) :
+#### Some stats (not accurate since I mainly work on private repos) :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrdorak&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 

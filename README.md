@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Pronouns: He/Him
+Pronouns: Any
 
-#### Some stats (not accurate since I mainly work on private repos) :
+#### Some stats because it's colorful :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrdorak&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dorianturle&theme=monokai&theme=onedark&row=1&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ![MrDorak's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdorak&layout=compact)
